@@ -1,0 +1,13 @@
+{
+  "name": "@delvefore/coaching-lint",
+  "version": "1.0.0",
+  "description": "Engineer Coaching: Lint",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
