@@ -1,5 +1,5 @@
 # DelveFore's Engineer Coaching: Coding Helper / Linting
-Showing new engineers why having an automated assistant for coding is critical while learning. 
+Supporting [Instructional Video](https://www.youtube.com/watch?v=2e61Im4VzIk) showing new engineers why and how an automated assistant for coding is critical while learning. 
 While static code analysis (aka "linting") is often used to keep professional projects focused on solutions not syntax conversations and
 aligning the code to look and feel consistent, linting is a powerful way to do help new engineers with the following:
 
@@ -7,7 +7,8 @@ aligning the code to look and feel consistent, linting is a powerful way to do h
 - warn why your code may not be working keep you blitzing through solutions
 - focusing on solutions not syntax
 
-A full article and video coming soon
+A full article
+
 
 ## Created
 This project was created by doing the following
