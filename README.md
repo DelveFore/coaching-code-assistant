@@ -32,3 +32,5 @@ $ npx jest --init
 > ✔ Which provider should be used to instrument code for coverage? › v8
 >
 > ✔ Automatically clear mock calls, instances and results before every test? … yes
+
+Then setup Babel with Jest https://jestjs.io/docs/getting-started#using-babel
